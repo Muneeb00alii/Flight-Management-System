@@ -1,0 +1,64 @@
+Booking Details:
+Flight No: 8
+Flight Company: PIA
+Passenger Name: Muneeb Ali
+Seat Number: 4B
+Fare: 16,000 Rs
+Date of Flight: 23 October 2023
+
+Booking Details:
+Flight No: 8
+Flight Company: PIA
+Passenger Name: Khurram Abbas
+Seat Number: 3C
+Fare: 16,000 Rs
+Date of Flight: 23 October 2023
+
+Booking Details:
+Flight No: 1
+Flight Company: PIA
+Passenger Name: Shabana Khurram
+Seat Number: 1A
+Fare: 30,000 Rs
+Date of Flight: 22 October 2023
+
+Booking Details:
+Flight No: 1
+Flight Company: PIA
+Passenger Name: Iqra Khurram
+Seat Number: 1B
+Fare: 26,000 Rs
+Date of Flight: 13 October 2023
+
+Booking Details:
+Flight No: 8
+Flight Company: PIA
+Passenger Name: Muneeb Ali
+Seat Number: 4A
+Fare: 16,000 Rs
+Date of Flight: 23 October 2023
+
+Booking Details:
+Flight No: 8
+Flight Company: PIA
+Passenger Name: Mohid
+Seat Number: 1A
+Fare: 16,000 Rs
+Date of Flight: 23 October 2023
+
+Booking Details:
+Flight No: 8
+Flight Company: PIA
+Passenger Name: Fasail
+Seat Number: 1B
+Fare: 16,000 Rs
+Date of Flight: 23 October 2023
+
+Booking Details:
+Flight No: 9
+Flight Company: Air Sial
+Passenger Name: Aziza
+Seat Number: 1A
+Fare: 66,000 Rs
+Date of Flight: 26 October 2023
+
